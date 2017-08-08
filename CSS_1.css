@@ -1,0 +1,5 @@
+/* Set entire HTML document to font-family Arial, sans-serif */
+
+html *  {
+   font-family: Arial !important;
+}
